@@ -11,4 +11,5 @@
 - How can CarMax use this information to improve business operations and provide customers a personalized shopping experience?"
 
 ## Data set description		
-The data is composed of vehicle attributes visitors appraised and the vehicles they purchased at Carmax - including make/model/trim, mileage, appraisal and purchase value
+- The data is composed of vehicle attributes visitors appraised and the vehicles they purchased at Carmax - including make/model/trim, mileage, appraisal and purchase value
+- [Data dectionary](data_dict.md)
