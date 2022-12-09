@@ -1,6 +1,7 @@
 # CarMax Analytics Showcase
 - Competition: https://analyticsshowcase.carmax.com
 - Source Repo: https://github.com/kmx-analytics-showcase/Winter-2023
+- [Details](competition.md)
 
 ## Participant
 - Shea Conaway (shea.conaway@vanderbilt.edu / shea.conaway@gmail.com)
