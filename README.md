@@ -12,6 +12,13 @@
 - What does a customer's appraised vehicle tell us about the vehicle they will end up purchasing?
 - How can CarMax use this information to **improve business operations** and **provide customers a personalized shopping experience**?
 
+## Project Criteria
+Projects will be assessed across the following criteria:
+- Curiosity: Did you find unique insights in the data?
+- Rigor: Are your analyses sound and accurate?
+- Clarity: Are your thoughts clear and organized?
+- Communication: How well did you summarize your findings and present recommendations? Are your results clearly communicated?
+
 ## Data set description		
 - The data is composed of vehicle attributes visitors appraised and the vehicles they purchased at Carmax - including make/model/trim, mileage, appraisal and purchase value
 - [Data dictionary](data_dict.md)
