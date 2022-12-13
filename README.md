@@ -2,6 +2,7 @@
 - Competition: https://analyticsshowcase.carmax.com
 - Source Repo: https://github.com/kmx-analytics-showcase/Winter-2023
 - [Details](competition.md)
+- [Google Docs Notes](https://docs.google.com/document/d/1m7KAHoAU2iA_ZROWd5y8AL34Nx-UqeUUCy8evFViYl0/edit)
 
 ## Participant
 - Shea Conaway (shea.conaway@vanderbilt.edu / shea.conaway@gmail.com)
