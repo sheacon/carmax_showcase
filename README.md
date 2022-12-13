@@ -19,6 +19,11 @@ Projects will be assessed across the following criteria:
 - Clarity: Are your thoughts clear and organized?
 - Communication: How well did you summarize your findings and present recommendations? Are your results clearly communicated?
 
+## Deliverables
+- Clean, analyze, and interpret data, synthesize your findings into a 1-page report and 5-10 minute video
+- Publish video to YouTube under “private setting” and share with analytics_showcase_submissions@carmax.com
+- Email 1-page report and video link to analytics_showcase_submissions@carmax.com
+
 ## Data set description		
 - The data is composed of vehicle attributes visitors appraised and the vehicles they purchased at Carmax - including make/model/trim, mileage, appraisal and purchase value
 - [Data dictionary](data_dict.md)
