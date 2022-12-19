@@ -1,7 +1,6 @@
 # CarMax Analytics Showcase
-- Competition: https://analyticsshowcase.carmax.com
+- Competition: https://analyticsshowcase.carmax.com / [Competition Details](competition.md)
 - Source Repo: https://github.com/kmx-analytics-showcase/Winter-2023
-- [Competition Details](competition.md)
 
 ## Deadlines
 - ~~2023 Registration Opens: November 22nd, 2022~~
