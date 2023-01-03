@@ -1,4 +1,4 @@
-# experimental
+# https://pip.pypa.io/en/stable/reference/requirements-file-format/
 
 py ~= 3.9.13
 numpy ~= 1.21.5
