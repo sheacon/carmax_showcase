@@ -1,4 +1,4 @@
-[Project Link](https://github.com/users/sheacon/projects/1)
+[Project Board](https://github.com/users/sheacon/projects/1)
 
 # CarMax Analytics Showcase
 - Competition: https://analyticsshowcase.carmax.com / [Competition Details](competition.md)
