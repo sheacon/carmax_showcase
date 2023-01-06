@@ -5,10 +5,6 @@
 - Source Repo: https://github.com/kmx-analytics-showcase/Winter-2023
 
 ## Deadlines
-- ~~2023 Registration Opens: November 22nd, 2022~~
-- ~~First Drop-in Q&A Call: December 7th, 2022 at 4PM (EST)~~
-- Registration Deadline: December 23rd at 11:59PM (EST)
-- Second Drop-in Q&A Call: January 5th, 2023 at 4PM (EST)
 - Submission Deadline: January 15th, 2023 at 11:59PM (EST)
 - Finalists Notified: January 22nd, 2023
 - Finalists Present Virtually to Leaders: February 17th, 2023
