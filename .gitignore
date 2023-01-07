@@ -56,3 +56,4 @@ vignettes/*.pdf
 
 ## this project
 *.bak
+data/cleaned_data.pkl
